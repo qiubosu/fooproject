@@ -1,0 +1,9 @@
+name = Git Deploy
+description = Helps sites that are deployed directly from Git repositories.
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2020-05-22
+version = "7.x-2.6"
+core = "7.x"
+project = "git_deploy"
+datestamp = "1590188169"
