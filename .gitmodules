@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/_contrib_repos/ds"]
+	path = sites/all/modules/_contrib_repos/ds
+	url = http://git.drupal.org/project/ds.git
